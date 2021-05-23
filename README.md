@@ -2,7 +2,7 @@
 
 ##Tecnologias utilizadas
 
-###SpringBoot
-###Docker
-###Heroku 
-###Postgresql
+- SpringBoot
+- Docker
+- Heroku 
+- Postgresql
